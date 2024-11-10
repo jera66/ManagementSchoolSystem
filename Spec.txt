@@ -1,0 +1,29 @@
+Create a school management system. Maintain students, teachers, and funds.
+
+//Money management system fort he school.
+
+Keep track of students total fees.
+
+already paid fees.
+
+
+//school
+Teachers,
+Students,
+Total money earned,
+Total money spent
+
+//Teacher
+id
+name
+salary
+
+
+//Student
+id
+name
+class
+grade
+paid fees
+total fees
+
